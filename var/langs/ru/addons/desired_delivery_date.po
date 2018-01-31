@@ -1,0 +1,17 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::desired_delivery_date"
+msgid "Desired delivery date"
+msgstr "Желаемая дата доставки"
+
+msgctxt "Addons::description::desired_delivery_date"
+msgid "Desired delivery date. Description."
+msgstr "Желаемая дата доставки. Описание."
+
+msgctxt "Languages::desired_delivery_date"
+msgid "Desired delivery date"
+msgstr "Желаемая дата доставки"
